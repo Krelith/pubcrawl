@@ -1,0 +1,161 @@
+{
+    "name": "The Hyde Park",
+    "lat":50.384175 ,
+    "long":-4.134609,
+    "rating":4,
+    "description":"Over 150 years of history", 
+    "rec_drink": "";
+}
+{
+    "name": "Fortescue Hotel",
+    "lat": 50.381683,
+    "long":-4.133468,
+    "rating":4,
+    "description":"No-nonsense venue for cask-conditioned real ales", 
+    "rec_drink": "";
+}
+{
+    "name": "The Junction,
+    "lat": 50.380251,
+    "long":-4.133630,
+    "rating":4,
+    "description":"Local live music", 
+    "rec_drink": "";
+}
+{
+    "name": "The Dog & Duck",
+    "lat": 50.380838,
+    "long":-4.133279,
+    "rating":4,
+    "description":"'Lot of hard looking guys, some flirty and other mellow biker women.'", 
+    "rec_drink": "";
+}
+{
+    "name": "Mouse Trap",
+    "lat": 50.376792,
+    "long":-4.136130,
+    "rating":4,
+    "description":"Gin Bar", 
+    "rec_drink": "Gin";
+}
+{
+    "name": "Switch",
+    "lat": 50.375217,
+    "long":--4.136818,
+    "rating":4,
+    "description":"Angry girls dancing on polls", 
+    "rec_drink": "";
+}
+{
+    "name": "Skiving Scholar",
+    "lat": 50.375010,
+    "long":-4.136960,
+    "rating":4,
+    "description":"Old men dancing to the juke box", 
+    "rec_drink": "Terminator";
+}
+{
+    "name": "Bac Bar",
+    "lat": 50.374827,
+    "long":-4.137264,
+    "rating":4,
+    "description":"Post Mousetrap, Pre Cuba", 
+    "rec_drink": "";
+}
+{
+    "name": "Caffeine Club",
+    "lat":50.373620,
+    "long":-4.137326,
+    "rating":4,
+    "description":"24 hours with food", 
+    "rec_drink": "";
+}
+{
+    "name": "PL4",
+    "lat":50.374197,
+    "long":-4.133054,
+    "rating":4,
+    "description":"Pretty much always dead", 
+    "rec_drink": "";
+}
+{
+    "name": "The Swallow",
+    "lat":50.370977,
+    "long": -4.133381,
+    "rating":4,
+    "description":"Gay bar with live carbaret and cracking karaoke", 
+    "rec_drink": "";
+}
+{
+    "name": "The Dairy Private Lounge",
+    "lat":50.370741,
+    "long": -4.135098,
+    "rating":4,
+    "description":"Posh cocktail bar", 
+    "rec_drink": "Cocktails";
+}
+{
+    "name": "The Woodside",
+    "lat":50.372764,
+    "long":-4.132892,
+    "rating":4,
+    "description":"Long wait at bar and bad atmosphere", 
+    "rec_drink": "";
+}
+{
+    "name": "Kitty O'Hanlons",
+    "lat":50.372760,
+    "long": -4.145787,
+    "rating":4,
+    "description":"Great atmosphere with great live music", 
+    "rec_drink": "Guiness";
+}
+//Clubs
+{
+    "name": "Pryzm",
+    "lat":50.367554,
+    "long": -4.125197,
+    "rating":4,
+    "description":"Cheap on Wednesdays, Expensive on weekends", 
+    "rec_drink": "£1 drinks";
+}
+{
+    "name": "Pl4NET",
+    "lat":50.370357,
+    "long": -4.134990,
+    "rating":4,
+    "description":"Always dead", 
+    "rec_drink": "";
+}
+{
+    "name": "Revolution",
+    "lat":50.369563,
+    "long": -4.146266,
+    "rating":4,
+    "description":"Average night out not as good as the other clubs in the city", 
+    "rec_drink": "";
+}
+{
+    "name": "OMG",
+    "lat":50.368250,
+    "long": -4.135743,
+    "rating":4,
+    "description":"Biggest Gay bar in Plymouth", 
+    "rec_drink": "";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
