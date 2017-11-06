@@ -11,7 +11,7 @@ app.use(express.static('public')); // static use of public folder
 
 var MongoClient = require('mongodb').MongoClient;
 var url = "mongodb://admin:admin123@ds241065.mlab.com:41065/pubcrawl";
-/*
+
 MongoClient.connect(url, function(err, db){ //connect to database
     if (err) throw err;
     db.collection('pubs').find().toArray(function(err, res){ // convert collection 'pubs' to array
@@ -21,4 +21,3 @@ MongoClient.connect(url, function(err, db){ //connect to database
         db.close(); // close database
     })
 });
-*/
