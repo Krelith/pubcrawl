@@ -2,6 +2,8 @@ var map;
 var pub = [];
 var marker = [];
 
+
+
 function initMap() {
     $.getJSON('myData.json', function(data){
         myData = data;
@@ -19,7 +21,10 @@ function initMap() {
                 position: pub[i],
                 map: map
             });
+            $('#pub_list').append(myData[random].name + '<br/>'); // adds pub names to the pub_list div
+            $('#pub_list').append(myData[random].description + '<br/>'); // as above, but for descriptions
             // console.log(random); // testing log 
         };
     });
 };
+
