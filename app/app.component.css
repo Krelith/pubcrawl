@@ -1,0 +1,42 @@
+html
+{
+    font-family: sans-serif;
+}
+
+header
+{
+    text-align: center;
+}
+
+nav ul a li
+{
+    display: inline-block;
+    width: 18%;
+    height: 30px;
+    border: 1px solid #000;
+    line-height: 30px;
+}
+
+nav ul a {
+    text-decoration: none;
+}
+
+nav ul
+{
+    padding: 0;
+    text-align: center;
+}
+
+/* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+#map 
+{
+    height: 400px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+#content
+{
+    max-width: 100%;
+}
